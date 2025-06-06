@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "TavEQA/IfVo=",
+  "success": true,
+  "projectFilePath": "/Users/venislavchakarov/Document/Develper/CinemaApp-SoftUni-exercise/CinemaApp.GCommon/CinemaApp.GCommon.csproj",
+  "expectedPackageFiles": [
+    "/Users/venislavchakarov/.nuget/packages/microsoft.netcore.app.ref/8.0.13/microsoft.netcore.app.ref.8.0.13.nupkg.sha512",
+    "/Users/venislavchakarov/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.13/microsoft.aspnetcore.app.ref.8.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}

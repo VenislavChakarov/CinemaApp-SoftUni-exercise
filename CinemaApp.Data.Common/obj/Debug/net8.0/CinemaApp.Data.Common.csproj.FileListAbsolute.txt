@@ -1,0 +1,12 @@
+/Users/venislavchakarov/Document/Develper/CinemaApp-SoftUni-exercise/CinemaApp.Data.Common/bin/Debug/net8.0/CinemaApp.Data.Common.deps.json
+/Users/venislavchakarov/Document/Develper/CinemaApp-SoftUni-exercise/CinemaApp.Data.Common/bin/Debug/net8.0/CinemaApp.Data.Common.dll
+/Users/venislavchakarov/Document/Develper/CinemaApp-SoftUni-exercise/CinemaApp.Data.Common/bin/Debug/net8.0/CinemaApp.Data.Common.pdb
+/Users/venislavchakarov/Document/Develper/CinemaApp-SoftUni-exercise/CinemaApp.Data.Common/obj/Debug/net8.0/CinemaApp.Data.Common.GeneratedMSBuildEditorConfig.editorconfig
+/Users/venislavchakarov/Document/Develper/CinemaApp-SoftUni-exercise/CinemaApp.Data.Common/obj/Debug/net8.0/CinemaApp.Data.Common.AssemblyInfoInputs.cache
+/Users/venislavchakarov/Document/Develper/CinemaApp-SoftUni-exercise/CinemaApp.Data.Common/obj/Debug/net8.0/CinemaApp.Data.Common.AssemblyInfo.cs
+/Users/venislavchakarov/Document/Develper/CinemaApp-SoftUni-exercise/CinemaApp.Data.Common/obj/Debug/net8.0/CinemaApp.Data.Common.csproj.CoreCompileInputs.cache
+/Users/venislavchakarov/Document/Develper/CinemaApp-SoftUni-exercise/CinemaApp.Data.Common/obj/Debug/net8.0/CinemaApp.Data.Common.sourcelink.json
+/Users/venislavchakarov/Document/Develper/CinemaApp-SoftUni-exercise/CinemaApp.Data.Common/obj/Debug/net8.0/CinemaApp.Data.Common.dll
+/Users/venislavchakarov/Document/Develper/CinemaApp-SoftUni-exercise/CinemaApp.Data.Common/obj/Debug/net8.0/refint/CinemaApp.Data.Common.dll
+/Users/venislavchakarov/Document/Develper/CinemaApp-SoftUni-exercise/CinemaApp.Data.Common/obj/Debug/net8.0/CinemaApp.Data.Common.pdb
+/Users/venislavchakarov/Document/Develper/CinemaApp-SoftUni-exercise/CinemaApp.Data.Common/obj/Debug/net8.0/ref/CinemaApp.Data.Common.dll

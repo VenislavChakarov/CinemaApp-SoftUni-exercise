@@ -1,0 +1,16 @@
+/Users/venislavchakarov/Document/Develper/CinemaApp-SoftUni-exercise/CinemaApp.Web.Infrastructure/bin/Debug/net8.0/CinemaApp.Web.Infrastructure.deps.json
+/Users/venislavchakarov/Document/Develper/CinemaApp-SoftUni-exercise/CinemaApp.Web.Infrastructure/bin/Debug/net8.0/CinemaApp.Web.Infrastructure.dll
+/Users/venislavchakarov/Document/Develper/CinemaApp-SoftUni-exercise/CinemaApp.Web.Infrastructure/bin/Debug/net8.0/CinemaApp.Web.Infrastructure.pdb
+/Users/venislavchakarov/Document/Develper/CinemaApp-SoftUni-exercise/CinemaApp.Web.Infrastructure/bin/Debug/net8.0/CinemaApp.GCommon.dll
+/Users/venislavchakarov/Document/Develper/CinemaApp-SoftUni-exercise/CinemaApp.Web.Infrastructure/bin/Debug/net8.0/CinemaApp.GCommon.pdb
+/Users/venislavchakarov/Document/Develper/CinemaApp-SoftUni-exercise/CinemaApp.Web.Infrastructure/obj/Debug/net8.0/CinemaApp.Web.Infrastructure.csproj.AssemblyReference.cache
+/Users/venislavchakarov/Document/Develper/CinemaApp-SoftUni-exercise/CinemaApp.Web.Infrastructure/obj/Debug/net8.0/CinemaApp.Web.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+/Users/venislavchakarov/Document/Develper/CinemaApp-SoftUni-exercise/CinemaApp.Web.Infrastructure/obj/Debug/net8.0/CinemaApp.Web.Infrastructure.AssemblyInfoInputs.cache
+/Users/venislavchakarov/Document/Develper/CinemaApp-SoftUni-exercise/CinemaApp.Web.Infrastructure/obj/Debug/net8.0/CinemaApp.Web.Infrastructure.AssemblyInfo.cs
+/Users/venislavchakarov/Document/Develper/CinemaApp-SoftUni-exercise/CinemaApp.Web.Infrastructure/obj/Debug/net8.0/CinemaApp.Web.Infrastructure.csproj.CoreCompileInputs.cache
+/Users/venislavchakarov/Document/Develper/CinemaApp-SoftUni-exercise/CinemaApp.Web.Infrastructure/obj/Debug/net8.0/CinemaApp.Web.Infrastructure.sourcelink.json
+/Users/venislavchakarov/Document/Develper/CinemaApp-SoftUni-exercise/CinemaApp.Web.Infrastructure/obj/Debug/net8.0/CinemaAp.492A892C.Up2Date
+/Users/venislavchakarov/Document/Develper/CinemaApp-SoftUni-exercise/CinemaApp.Web.Infrastructure/obj/Debug/net8.0/CinemaApp.Web.Infrastructure.dll
+/Users/venislavchakarov/Document/Develper/CinemaApp-SoftUni-exercise/CinemaApp.Web.Infrastructure/obj/Debug/net8.0/refint/CinemaApp.Web.Infrastructure.dll
+/Users/venislavchakarov/Document/Develper/CinemaApp-SoftUni-exercise/CinemaApp.Web.Infrastructure/obj/Debug/net8.0/CinemaApp.Web.Infrastructure.pdb
+/Users/venislavchakarov/Document/Develper/CinemaApp-SoftUni-exercise/CinemaApp.Web.Infrastructure/obj/Debug/net8.0/ref/CinemaApp.Web.Infrastructure.dll

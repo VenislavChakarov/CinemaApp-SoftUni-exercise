@@ -1,0 +1,6 @@
+/Users/venislavchakarov/Document/Develper/CinemaApp-SoftUni-exercise/CinemaApp.Data/obj/Debug/net8.0/CinemaApp.Data.csproj.AssemblyReference.cache
+/Users/venislavchakarov/Document/Develper/CinemaApp-SoftUni-exercise/CinemaApp.Data/obj/Debug/net8.0/CinemaApp.Data.GeneratedMSBuildEditorConfig.editorconfig
+/Users/venislavchakarov/Document/Develper/CinemaApp-SoftUni-exercise/CinemaApp.Data/obj/Debug/net8.0/CinemaApp.Data.AssemblyInfoInputs.cache
+/Users/venislavchakarov/Document/Develper/CinemaApp-SoftUni-exercise/CinemaApp.Data/obj/Debug/net8.0/CinemaApp.Data.AssemblyInfo.cs
+/Users/venislavchakarov/Document/Develper/CinemaApp-SoftUni-exercise/CinemaApp.Data/obj/Debug/net8.0/CinemaApp.Data.csproj.CoreCompileInputs.cache
+/Users/venislavchakarov/Document/Develper/CinemaApp-SoftUni-exercise/CinemaApp.Data/obj/Debug/net8.0/CinemaApp.Data.sourcelink.json
