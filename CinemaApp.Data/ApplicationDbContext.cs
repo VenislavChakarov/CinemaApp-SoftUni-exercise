@@ -3,9 +3,8 @@
 namespace CinemaApp.Data
 {
     using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
-    using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
     using Microsoft.EntityFrameworkCore;
-    using CinemaApp.Data.Models;
+    using Models;
     public class ApplicationDbContext : IdentityDbContext
     {
         
