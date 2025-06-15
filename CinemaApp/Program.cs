@@ -1,6 +1,10 @@
 using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;
 using CinemaApp.Data;
+using CinemaApp.Services.Core;
+using CinemaApp.Services.Core.interfaces;
+using Microsoft.EntityFrameworkCore.Metadata;
+
 namespace CinemaApp.Web
 {
     using CinemaApp.Data;
@@ -29,7 +33,11 @@ namespace CinemaApp.Web
                 })
                 .AddEntityFrameworkStores<ApplicationDbContext>();
             builder.Services.AddControllersWithViews();
-
+                
+            builder.Services.AddScoped<IMovieService, MovieServiece>();
+           
+            builder.Services.AddControllersWithViews();
+            
             var app = builder.Build();
 
             // Configure the HTTP request pipeline.

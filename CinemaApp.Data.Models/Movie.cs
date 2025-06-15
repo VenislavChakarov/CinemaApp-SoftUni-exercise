@@ -26,7 +26,7 @@ public class Movie
     
     [Comment("Director of the movie")]
     [Required(ErrorMessage = "Director is required")]
-    [StringLength(EntityConstants.Movie.DirectorMaxLength, ErrorMessage = "Director cannot exceed 100 characters")]
+    [StringLength(EntityConstants.Movie.DirectorNameMaxLength, ErrorMessage = "Director cannot exceed 100 characters")]
     
     public string Director { get; set; } = null!;
     
