@@ -10,9 +10,9 @@ namespace CinemaApp.Services.Core;
 
 public class MovieServiece : IMovieService
 {
-    private readonly ApplicationDbContext _dbContext;
+    private readonly CinemaAppDbContext _dbContext;
     
-public MovieServiece(ApplicationDbContext dbContext)
+public MovieServiece(CinemaAppDbContext dbContext)
     {
         _dbContext = dbContext;
     }

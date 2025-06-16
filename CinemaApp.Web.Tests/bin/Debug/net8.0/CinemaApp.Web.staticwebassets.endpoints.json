@@ -29,7 +29,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 11 Jun 2025 16:20:37 GMT"
+          "Value": "Mon, 16 Jun 2025 12:35:23 GMT"
         }
       ],
       "EndpointProperties": [
@@ -74,7 +74,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 11 Jun 2025 16:20:37 GMT"
+          "Value": "Mon, 16 Jun 2025 12:35:23 GMT"
         }
       ],
       "EndpointProperties": [
@@ -2633,8 +2633,8 @@
       ]
     },
     {
-      "Route": "images/04-ASP-NET-Core-MVC-Introduction-Exercises.docx_cinema-panoramic-megeve.crl27u8y8x.jpg",
-      "AssetFile": "images/04-ASP-NET-Core-MVC-Introduction-Exercises.docx_cinema-panoramic-megeve.jpg",
+      "Route": "images/cinema-panomaric-megeve.crl27u8y8x.jpg",
+      "AssetFile": "images/cinema-panomaric-megeve.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2673,13 +2673,13 @@
         },
         {
           "Name": "label",
-          "Value": "images/04-ASP-NET-Core-MVC-Introduction-Exercises.docx_cinema-panoramic-megeve.jpg"
+          "Value": "images/cinema-panomaric-megeve.jpg"
         }
       ]
     },
     {
-      "Route": "images/04-ASP-NET-Core-MVC-Introduction-Exercises.docx_cinema-panoramic-megeve.jpg",
-      "AssetFile": "images/04-ASP-NET-Core-MVC-Introduction-Exercises.docx_cinema-panoramic-megeve.jpg",
+      "Route": "images/cinema-panomaric-megeve.jpg",
+      "AssetFile": "images/cinema-panomaric-megeve.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {

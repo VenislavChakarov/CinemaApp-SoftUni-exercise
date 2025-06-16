@@ -1,43 +1,44 @@
 using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;
 using CinemaApp.Data;
-using CinemaApp.Services.Core;
-using CinemaApp.Services.Core.interfaces;
-using Microsoft.EntityFrameworkCore.Metadata;
-
 namespace CinemaApp.Web
 {
     using CinemaApp.Data;
+    using CinemaApp.Services.Core;
+    using CinemaApp.Services.Core.interfaces;
     using Microsoft.AspNetCore.Identity;
     using Microsoft.EntityFrameworkCore;
     public class Program
     {
         public static void Main(string[] args)
         {
-            var builder = WebApplication.CreateBuilder(args);
+            WebApplicationBuilder builder = WebApplication.CreateBuilder(args);
 
-            // Add services to the container.
-            var connectionString = builder.Configuration.GetConnectionString("DefaultConnection") ?? throw new InvalidOperationException("Connection string 'DefaultConnection' not found.");
-            builder.Services.AddDbContext<ApplicationDbContext>(options =>
+            var connectionString = builder.Configuration
+                .GetConnectionString("DefaultConnection")
+                ?? throw new InvalidOperationException("Connection string 'DefaultConnection' not found.");
+
+            builder.Services.AddDbContext<CinemaAppDbContext>(options =>
                 options.UseSqlServer(connectionString));
             builder.Services.AddDatabaseDeveloperPageExceptionFilter();
 
-            builder.Services.AddDefaultIdentity<IdentityUser>(options =>
+            builder.Services
+                .AddDefaultIdentity<IdentityUser>(options =>
                 {
                     options.SignIn.RequireConfirmedAccount = false;
                     options.Password.RequireDigit = false;
-                    options.Password.RequireLowercase = false;
+                    options.Password.RequiredLength = 3;
                     options.Password.RequireNonAlphanumeric = false;
                     options.Password.RequireUppercase = false;
-                    options.Password.RequiredLength = 3;
+                    options.Password.RequireLowercase = false;
                 })
-                .AddEntityFrameworkStores<ApplicationDbContext>();
-            builder.Services.AddControllersWithViews();
-                
+                .AddEntityFrameworkStores<CinemaAppDbContext>();
+
             builder.Services.AddScoped<IMovieService, MovieServiece>();
-           
+            builder.Services.AddScoped<IWatchlistService, WatchlistService>();
+
             builder.Services.AddControllersWithViews();
-            
+
             var app = builder.Build();
 
             // Configure the HTTP request pipeline.

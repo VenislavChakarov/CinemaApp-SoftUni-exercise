@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CinemaApp.Data")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6c85ee1fbf63c56c357cfe69893b656ae3b1d33b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b6e5b9d4be191d022243a78b465bfda4ea943e6c")]
 [assembly: System.Reflection.AssemblyProductAttribute("CinemaApp.Data")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CinemaApp.Data")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

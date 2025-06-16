@@ -4,13 +4,13 @@
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\CinemaApp.Web.cbj3ij6v3d.bundle.scp.css'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
       <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-eN064PyucjO/hD24lDxsBwwdH8cOc6oX/34OIWRAmEs="}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"1082"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022eN064PyucjO/hD24lDxsBwwdH8cOc6oX/34OIWRAmEs=\u0022"},{"Name":"Last-Modified","Value":"Wed, 11 Jun 2025 16:20:37 GMT"}]]]></ResponseHeaders>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"1082"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022eN064PyucjO/hD24lDxsBwwdH8cOc6oX/34OIWRAmEs=\u0022"},{"Name":"Last-Modified","Value":"Mon, 16 Jun 2025 12:35:23 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/CinemaApp.Web/CinemaApp.Web.cbj3ij6v3d.bundle.scp.css">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\CinemaApp.Web.cbj3ij6v3d.bundle.scp.css'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
       <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"cbj3ij6v3d"},{"Name":"integrity","Value":"sha256-eN064PyucjO/hD24lDxsBwwdH8cOc6oX/34OIWRAmEs="},{"Name":"label","Value":"_content/CinemaApp.Web/CinemaApp.Web.bundle.scp.css"}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"1082"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022eN064PyucjO/hD24lDxsBwwdH8cOc6oX/34OIWRAmEs=\u0022"},{"Name":"Last-Modified","Value":"Wed, 11 Jun 2025 16:20:37 GMT"}]]]></ResponseHeaders>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"1082"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022eN064PyucjO/hD24lDxsBwwdH8cOc6oX/34OIWRAmEs=\u0022"},{"Name":"Last-Modified","Value":"Mon, 16 Jun 2025 12:35:23 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/CinemaApp.Web/css/cinema-styles.css">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\cinema-styles.css'))</AssetFile>

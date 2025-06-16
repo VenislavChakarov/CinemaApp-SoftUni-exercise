@@ -1,12 +1,12 @@
-﻿@{//
-    ViewData["Title"] = "Home";
+﻿@{
+ViewData["Title"] = "Home";
 }
 
 <div class="container mt-4">
     <div class="position-relative text-white text-center mb-4"
          style="background: linear-gradient(to bottom, rgba(0,0,0,0.5), rgba(0,0,0,0.5)),
              url('@Url.Content("~/images/cinema-panomaric-megeve.jpg")') center/cover no-repeat;
-                 height: 50vh; border-radius: 12px;">
+             height: 50vh; border-radius: 12px;">
         <div class="position-absolute top-50 start-50 translate-middle">
             <h1 class="display-1 fw-bold text-warning text-uppercase" style="font-size: 4rem;">Welcome to CinemaWebApp!</h1>
             <p class="lead text-light fw-bold fs-4">Discover the best cinemas and movies tailored for your entertainment.</p>
@@ -43,3 +43,10 @@
         </div>
     </div>
 </div>
+
+@section Scripts {
+}
+
+@section Styles {
+<link rel="stylesheet" href="~/css/user.css">
+}

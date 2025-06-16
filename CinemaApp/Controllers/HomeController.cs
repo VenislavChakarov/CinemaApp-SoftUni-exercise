@@ -1,9 +1,11 @@
+using Microsoft.AspNetCore.Authorization;
+
 namespace CinemaApp.Web.Controllers
 {
     using System.Diagnostics;
     using CinemaApp.Web.ViewModels;
     using Microsoft.AspNetCore.Mvc;
-    public class HomeController : Controller
+    public class HomeController : BaseController
     {
         private readonly ILogger<HomeController> _logger;
 
@@ -11,7 +13,8 @@ namespace CinemaApp.Web.Controllers
         {
             _logger = logger;
         }
-
+        
+        [AllowAnonymous]
         public IActionResult Index()
         {
             return View();

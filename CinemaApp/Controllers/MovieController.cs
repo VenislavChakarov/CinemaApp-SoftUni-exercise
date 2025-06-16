@@ -1,11 +1,12 @@
 using CinemaApp.Services.Core.interfaces;
 using CinemaApp.Web.ViewModels.Movie;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore.Metadata.Internal;
 
 namespace CinemaApp.Web.Controllers;
 
-public class MovieController : Controller
+public class MovieController : BaseController
 {
     private readonly IMovieService _movieService;
     
@@ -13,7 +14,10 @@ public class MovieController : Controller
     {
         _movieService = movieService;
     }
+    
+    
     [HttpGet]
+    [AllowAnonymous]
     public async Task<IActionResult> Index()
     {
         var allMovies = await this._movieService

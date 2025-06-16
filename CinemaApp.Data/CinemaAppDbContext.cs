@@ -5,11 +5,13 @@ namespace CinemaApp.Data
     using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
     using Microsoft.EntityFrameworkCore;
     using Models;
-    public class ApplicationDbContext : IdentityDbContext
+    public class CinemaAppDbContext : IdentityDbContext
     {
         
-        public DbSet<Movie> Movies { get; set; }
-        public ApplicationDbContext(DbContextOptions<ApplicationDbContext> options)
+        public virtual DbSet<Movie> Movies { get; set; }
+        
+        public virtual DbSet<UserMovie> UserMovies { get; set; }
+        public CinemaAppDbContext(DbContextOptions<CinemaAppDbContext> options)
             : base(options)
         {
         }
